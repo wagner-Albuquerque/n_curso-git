@@ -1,2 +1,6 @@
 testando atualizaçao do clone
+<<<<<<< HEAD
 teste
+=======
+atulizando pra teste de branch
+>>>>>>> primeiro_branch
