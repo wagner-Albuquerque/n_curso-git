@@ -1,1 +1,2 @@
 testando arquivo de texto
+atualizando funcionalidade
